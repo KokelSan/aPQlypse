@@ -20,4 +20,11 @@ There are 5 rolls spread across the map. Zombies are headed you from everywhere.
 :-------------------------:|:-------------------------:
 |Roger, I have a target in sight|The nation is proud of you soldier|
 
+## Demo video 🎥
+Here is a link to the presentation video we made to promote the game to our friends  
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=NKb68moE3SM
+" target="_blank"><img src="http://img.youtube.com/vi/NKb68moE3SM/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 PS : In French, “PQ” is slang for toilet paper, but unfortunately the pun is lost in English
