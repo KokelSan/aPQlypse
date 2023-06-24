@@ -5,7 +5,7 @@ It is a little project I made during a beautiful day of creativity and determina
 
 “In an apocalyptic world infested by zombies, toilet tissue has become a rare resource. Luckily, a group of rolls has been detected in a restricted area. As an elite soldier you are sent in mission to find the precious paper”.
 
-There are 5 rolls spread across the map. Zombies are headed you from everywhere. Good luck soldier.
+There are 5 rolls spread across the map. Zombies are heading to you from everywhere. Good luck soldier.
 
 
 ## What I learned 🌟
